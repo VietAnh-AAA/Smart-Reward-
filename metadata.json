@@ -1,0 +1,7 @@
+{
+  "name": "SmartPay Rewards - Tối Ưu Ưu Đãi",
+  "description": "Ứng dụng giúp bạn tìm kiếm và tối ưu hóa các chương trình khuyến mãi, ưu đãi từ thẻ ngân hàng, ví điện tử và điểm thành viên bạn đang sở hữu một cách tự động.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
